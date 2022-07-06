@@ -15,3 +15,7 @@ footer {
   align-items: center;
   justify-content: space-around;
 }
+
+.social-icon {
+  cursor: pointer;
+}

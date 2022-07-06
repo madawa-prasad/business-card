@@ -1,6 +1,7 @@
 import React from 'react';
-import profile from '../../images/profile.jpg';
-import email from '../../images/email.png';
+
+import profile from '../../assets/images/profile.jpg';
+import email from '../../assets/images/email.png';
 import './profile.css';
 
 const Profile = () => {

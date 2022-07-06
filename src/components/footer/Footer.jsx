@@ -1,9 +1,9 @@
 import React from 'react';
-import twitter from '../../images/Twitter.png';
-import facebook from '../../images/Facebook.png';
-import instagram from '../../images/Instagram.png';
-import linkedin from '../../images/Linkedin.png';
-import github from '../../images/GitHub.png';
+import twitter from '../../assets/images/Twitter.png';
+import facebook from '../../assets/images/Facebook.png';
+import instagram from '../../assets/images/Instagram.png';
+import linkedin from '../../assets/images/Linkedin.png';
+import github from '../../assets/images/GitHub.png';
 import './footer.css';
 
 const Footer = () => {
